@@ -1,0 +1,401 @@
+[30-Nov-2022 16:14:36 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 83
+[30-Nov-2022 16:15:26 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 83
+[30-Nov-2022 16:19:30 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::manageBhk() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 159
+[30-Nov-2022 18:56:33 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:34 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:38 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:55 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:56 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:56 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:57 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:00:58 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[30-Nov-2022 19:01:08 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addConstruction() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 84
+[14-Jan-2023 18:43:31 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/agentian/application/models/mobile/FilterModel.php on line 23
+[14-Jan-2023 18:43:47 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/agentian/application/models/mobile/FilterModel.php on line 23
+[14-Jan-2023 18:52:46 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/agentian/application/models/mobile/FilterModel.php on line 23
+[14-Jan-2023 19:06:27 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/agentian/application/models/mobile/FilterModel.php on line 72
+[27-Jan-2023 13:26:50 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:38:17 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:38:22 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:38:58 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:38:58 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:39:02 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:39:21 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:39:23 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:39:28 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:39:30 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:42:42 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:54:51 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:54:56 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:55:13 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:56:23 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 13:57:05 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaq() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 181
+[27-Jan-2023 15:07:07 asia/kolkata] PHP Fatal error:  Cannot redeclare PagesModel::getAllFaqForMobile() in /home/demo3sjain/public_html/agentian/application/models/PagesModel.php on line 194
+[28-Jan-2023 11:10:06 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:17:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:18:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:19:03 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:20:02 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:20:11 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:20:44 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[28-Jan-2023 11:21:38 asia/kolkata] PHP Fatal error:  Cannot redeclare Pages::managePages() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/Pages.php on line 102
+[03-Feb-2023 16:52:40 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/buy_property.php on line 416
+[13-Feb-2023 16:15:14 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::sendOtp() in /home/demo3sjain/public_html/agentian/application/models/mobile/UsersModel.php on line 244
+[13-Feb-2023 23:28:59 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::verification() in /home/demo3sjain/public_html/agentian/application/models/mobile/UsersModel.php on line 57
+[13-Feb-2023 23:29:59 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::verification() in /home/demo3sjain/public_html/agentian/application/models/mobile/UsersModel.php on line 57
+[13-Feb-2023 23:30:10 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::verification() in /home/demo3sjain/public_html/agentian/application/models/mobile/UsersModel.php on line 57
+[25-Apr-2023 19:23:29 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/demo3sjain/public_html/agentian/application/views/frontend/home.php on line 257
+[23-May-2023 17:56:50 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:19:36 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:36 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:36 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:36 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:41 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:53 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:53 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:53 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:53 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:19:56 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:20:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:20:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:20:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:20:54 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:20:54 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:20:54 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:09 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:09 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:09 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:09 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:21:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:33:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:35:43 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:36:14 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:36:22 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:36:22 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:36:22 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:36:29 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:03 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:03 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:03 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:03 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:37:38 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:37:53 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:38:18 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:38:21 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:38:41 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:38:51 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/include/menu.php on line 161
+[23-May-2023 18:39:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:39:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:39:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:39:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:39:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:39:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:39:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:42:51 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:44:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:45:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:45:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:45:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:45:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:45:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:45:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:31 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:34 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:34 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:34 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:38 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:41 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:41 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:41 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:47 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:46:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:05 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:05 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:05 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:05 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:05 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:05 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:50:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:23 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:51:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 32
+[23-May-2023 18:52:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:25 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:29 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:56 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:56 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:56 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:57 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:57 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:52:57 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:53:02 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:24 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:55:26 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:32 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:32 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:32 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:32 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:32 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:32 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:56:47 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:13 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:13 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:13 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:13 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:13 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:13 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:57:18 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:01 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:33 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:33 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:33 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:33 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:33 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:33 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:58:39 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:18 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:18 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:18 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:19 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:19 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:19 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:30 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 18:59:49 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:17 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:17 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:17 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:17 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:17 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:17 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:22 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:46 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:52 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:52 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:52 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:52 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:52 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:00:52 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:35 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:44 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:44 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:44 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:51 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:51 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:01:51 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:02:09 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:02:10 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:02:10 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:03:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:03:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:03:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:03:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:03:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:03:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:04:00 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:42 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:43 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:43 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:43 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:06:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:08 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:08 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:08 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:11 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:45 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[23-May-2023 19:07:51 asia/kolkata] PHP Fatal error:  Cannot redeclare Authentication::logout() in /home/demo3sjain/public_html/agentian/application/controllers/Authentication.php on line 35
+[03-Jun-2023 10:15:45 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:15:48 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:15:49 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:15:51 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:15:51 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:16:20 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:16:54 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:16:55 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:16:59 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:19:11 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:19:59 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:06 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:12 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:13 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:13 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:13 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:14 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:22 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:23 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 10:20:26 asia/kolkata] PHP Fatal error:  Cannot redeclare UsersModel::getOneUser() in /home/demo3sjain/public_html/agentian/application/models/UsersModel.php on line 280
+[03-Jun-2023 18:00:50 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:01:53 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:01:57 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:03:23 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:03:57 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:04:04 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:04:15 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:04:24 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:04:31 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:04:33 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:04:37 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:05:14 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:07:19 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:08:59 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:09:07 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 32
+[03-Jun-2023 18:10:03 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:04 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:16 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:19 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:21 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:22 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:24 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:27 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:36 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:10:51 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:11:01 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:11:47 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:11:52 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:13:32 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:13:34 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:13:59 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:14:08 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:14:59 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:15:01 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:15:24 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:15:25 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:15:26 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:15:28 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[03-Jun-2023 18:16:00 asia/kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/demo3sjain/public_html/agentian/application/models/mobile/BlogModel.php on line 33
+[21-Jun-2023 13:16:00 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/frontend/propertyDetails.php on line 955
+[13-Jul-2023 13:49:34 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addFilterCategory() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 94
+[13-Jul-2023 13:49:38 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addFilterCategory() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 94
+[13-Jul-2023 13:49:55 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::addFilterCategory() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 94
+[13-Jul-2023 15:46:30 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:46:35 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:46:36 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:46:38 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:46:39 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:46:53 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:48:31 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:48:53 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:52:01 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:52:32 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:52:37 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:52:44 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 15:58:04 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 243
+[13-Jul-2023 16:00:09 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 244
+[13-Jul-2023 16:01:16 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 241
+[13-Jul-2023 16:09:36 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 240
+[13-Jul-2023 16:10:03 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySettingModel::getSubCategory() in /home/demo3sjain/public_html/agentian/application/models/PropertySettingModel.php on line 240
+[13-Jul-2023 17:06:48 asia/kolkata] PHP Fatal error:  Cannot redeclare PropertySetting::manageSubCategory() in /home/demo3sjain/public_html/agentian/application/controllers/administrator/PropertySetting.php on line 151
+[04-Aug-2023 14:01:23 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/buy_property.php on line 114
+[04-Aug-2023 17:47:35 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/sell_property.php on line 814
+[04-Aug-2023 17:47:37 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/sell_property.php on line 814
+[04-Aug-2023 17:48:52 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/sell_property.php on line 814
+[04-Aug-2023 17:49:35 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/sell_property.php on line 814
+[04-Aug-2023 17:49:51 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/sell_property.php on line 814
+[04-Aug-2023 17:50:52 asia/kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/demo3sjain/public_html/agentian/application/views/admin/property/sell_property.php on line 814
+[12-Dec-2023 11:08:15 asia/kolkata] PHP Fatal error:  Class 'available' not found in /home/demo3sjain/public_html/agentian/system/database/drivers/mysqli/mysqli_result.php on line 229

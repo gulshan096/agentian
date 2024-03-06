@@ -1,0 +1,8 @@
+For Recording Activity:
+
+	for Desktop
+		$logincheck	=	$this->session->userdata();
+		$this->AuthenticationModel->add_activity("Logged in Successfully.",$logincheck['aid'],'admin','desktop');
+		
+	for Mobile
+		$this->AuthenticationModel->add_activity("Logged in Successfully.",S_USERID,S_USERTYPE,'mobile');

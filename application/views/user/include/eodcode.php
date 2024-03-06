@@ -1,0 +1,2 @@
+ <script src="<?php echo BASE_HTTP_REL_URL; ?>assets/admin/themes/assets/sjain.js?version=<?php echo CACHE_VERSION; ?>"></script>
+ <script src="<?php echo BASE_HTTP_REL_URL; ?>assets/sjain_logged.js?v=<?php echo CACHE_VERSION; ?>"></script>
